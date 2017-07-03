@@ -1,0 +1,19 @@
+{
+  "name": "oauth2-api",
+  "version": "1.0.0",
+  "description": "NodeJS implementation of Telco Authentication Kit on top of Docker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wicac/oauth2-api.git"
+  },
+  "author": "wicac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wicac/oauth2-api/issues"
+  },
+  "homepage": "https://github.com/wicac/oauth2-api/#readme"
+}
